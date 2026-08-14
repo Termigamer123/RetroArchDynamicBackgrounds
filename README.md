@@ -40,4 +40,4 @@ This repository is about some dynamic backgrounds that i created for the followi
 # Sony - PlayStation Portable
 <img width="1920" height="1080" alt="Sony - PlayStation Portable" src="https://github.com/user-attachments/assets/4c3cdb5e-ff40-4ce7-9986-9d7b4e64b2cf" />
 
-I will add more backgrounds in the future but these are all of the consoles that i use so if i add a console i will make the background
+I will add more backgrounds in the future but these are all of the consoles that i use so if i add a console i will make the background for it.
